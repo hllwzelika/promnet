@@ -1,0 +1,74 @@
+header {
+    width: 88%;
+    background: #1a224b;
+    color: #fff;
+    line-height: 120px;
+    padding-left: 5%;
+} 
+
+nav{
+    background: #1a224b;
+    height: 50px;
+    line-height: 50px;
+    width: 90%;
+    margin: auto;
+    position: relative;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li a{
+    float: left;
+    width: 60px;
+    display: block;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+#container{
+        width: 88%;
+        margin: auto;
+        min-height: 100px;
+        background: #fff;
+        overflow: hidden;
+}
+.kiri{
+    float: left;
+    width: 69%;
+    margin: auto;
+}
+.content{
+    border: 2px solid #1a224b;
+    margin-top: 10px;
+    padding: 0pc 2pc 2pc 2pc;
+}
+.kanan{
+    float: right;
+    width: 30%;
+    margin: auto;
+}
+.content{
+    border: 2px solid #1a224b;
+    margin-top: 10px;
+    padding: 0pc 2pc 2pc 2pc;
+}
+div ul{
+    list-style-type: none;
+    Padding: 0px;
+    Line-height: 40px
+}
+div ul li{
+    text-align: left;
+    line-height: 35px;
+    color: blue;
+    text-decoration: none;
+}
+footer{
+    width: 88%;
+    margin: auto;
+    background: #1a224b;
+    color: #fff;
+    padding-left: 2%;
+    line-height: 38px;
+    position: relative;
+}
